@@ -1,9 +1,15 @@
 [tool.poetry]
 name = "fuchs"
 version = "0.1.0"
-description = ""
+description = "Template engine for smart foxes, in python"
 authors = ["cheetahbyte <bernerdoodle@outlook.de>"]
-
+repository = "https://github.com/cheetahbyte/fuchs"
+keywords = ["template", "python", "web", "webdevelopment", "template-engine"]
+readme="README.md"
+license = "MIT"
+include = [
+    "LICENSE"
+]
 [tool.poetry.dependencies]
 python = "^3.9"
 
