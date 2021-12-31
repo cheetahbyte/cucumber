@@ -1,6 +1,6 @@
 # Fuchs Templates
 
-<img  src="https://images.unsplash.com/photo-1605101479435-005f9c563944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm94fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" style="width: 300px; margin-top: -50px;" align="right">
+<img  src="https://images.unsplash.com/photo-1605101479435-005f9c563944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm94fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" style="border-radius: 7px;width: 300px; margin-top: -50px;" align="right">
 
 > Fuchs Templates is a simple template engine for HTML/XML written in Python.
 
